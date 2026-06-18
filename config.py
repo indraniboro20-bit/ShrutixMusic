@@ -49,7 +49,7 @@ API_KEY = getenv(
 
 SUPPORT_CHANNEL = getenv(
     "SUPPORT_CHANNEL",
-    "https://t.me/ll_ABOUT_ANU_ll"
+    "https://t.me/ABOUT_ROLEX_ANU"
 )
 
 SUPPORT_CHAT = getenv(
