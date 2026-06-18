@@ -48,7 +48,8 @@
 
 [[Deploy](https://img.shields.io/badge/Deploy-Termux-green?style=for-the-badge)](https://github.com/indraniboro20-bit/ShrutixMusic)
 
-
+src="https://trumx.app/button.svg" alt="Deploy on trumx">
+  </a>
 ## ✨ Music Features
 
 ### 🎵 **High-Quality Audio Streaming**
