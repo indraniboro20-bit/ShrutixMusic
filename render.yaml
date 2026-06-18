@@ -1,0 +1,6 @@
+services:
+  - type: worker
+    name: shrutixmusic
+    env: docker
+    plan: free
+    autoDeploy: true
