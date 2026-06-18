@@ -19,7 +19,7 @@ MONGO_DB_URI = getenv("MONGO_DB_URI", "")
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", "60"))
 
 LOGGER_ID = int(getenv("LOGGER_ID", "0"))
-OWNER_ID = int(getenv("OWNER_ID", "7574330905"))
+OWNER_ID = int(getenv("OWNER_ID", "8315627692"))
 
 # Heroku App Name
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", "")
@@ -29,7 +29,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY", "")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/NoxxOP/ShrutixMusic",
+    "https://github.com/indraniboro20-bit/ShrutixMusic",
 )
 
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
@@ -44,17 +44,17 @@ API_URL = getenv(
 
 API_KEY = getenv(
     "SHRUTI_API_KEY",
-    "YOUR_API_KEY"
+    "ShrutiBotsptruZjoLjaoBNWoqKoEp"
 )
 
 SUPPORT_CHANNEL = getenv(
     "SUPPORT_CHANNEL",
-    "https://t.me/ShrutiBots"
+    "https://t.me/ll_ABOUT_ANU_ll"
 )
 
 SUPPORT_CHAT = getenv(
     "SUPPORT_CHAT",
-    "https://t.me/ShrutiSupportChat"
+    "https://t.me/+91aOX5qWDBZiM2E0"
 )
 
 AUTO_LEAVING_ASSISTANT = getenv(
@@ -94,12 +94,11 @@ confirmer = {}
 
 START_IMG_URL = getenv(
     "START_IMG_URL",
-    "https://telegra.ph/file/5c8d3994b93174a57d7f3-608459ffaf02cf2a9b.jpg"
+    "https://ibb.co/Myk168CT"
 )
 
 PING_IMG_URL = getenv(
-    "PING_IMG_URL",
-    "https://telegra.ph/file/c8b09659c837cd9142601-f594bfd29076e79944.jpg"
+    "PING_IMG_URL", "https://ibb.co/Myk168CT"
 )
 
 PLAYLIST_IMG_URL = "https://te.legra.ph/file/4ec5ae4381dffb039b4ef.jpg"
