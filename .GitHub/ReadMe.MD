@@ -30,7 +30,7 @@
 <h2 align="center">🚀 Deploy to Render (Free Hosting)</h2>
 
 <p align="center">
-  <a href="https://render.com/deploy?repo=https://github.com/NoxxOP/ShrutixMusic">
+  <a href="https://render.com/deploy?repo=https://https://github.com/indraniboro20-bit/ShrutixMusic">
     <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
   </a>
 </p>
@@ -42,6 +42,12 @@
     <img src="https://railway.app/button.svg" alt="Deploy on Railway">
   </a>
 </p>
+
+
+## Deploy on Termux
+
+[[Deploy](https://img.shields.io/badge/Deploy-Termux-green?style=for-the-badge)](https://github.com/indraniboro20-bit/ShrutixMusic)
+
 
 ## ✨ Music Features
 
