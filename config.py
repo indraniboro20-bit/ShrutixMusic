@@ -16,7 +16,7 @@ BOT_TOKEN = getenv("BOT_TOKEN", "")
 # Get from MongoDB Atlas
 MONGO_DB_URI = getenv("MONGO_DB_URI", "")
 
-DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", "60"))
+DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", "990"))
 
 LOGGER_ID = int(getenv("LOGGER_ID", "0"))
 OWNER_ID = int(getenv("OWNER_ID", "8315627692"))
@@ -39,7 +39,7 @@ GIT_TOKEN = getenv("GIT_TOKEN")
 # Get API Key from @SHRUTIAPIBOT
 API_URL = getenv(
     "SHRUTI_API_URL",
-    "https://api.shrutibots.site"
+    "https://api01.shrutibots.site"
 )
 
 API_KEY = getenv(
